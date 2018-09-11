@@ -1,5 +1,5 @@
 @org.junit.jupiter.api.Test
-void ${NAME}() {
+void should${NAME}() {
 //given
 //when
   ${BODY}
